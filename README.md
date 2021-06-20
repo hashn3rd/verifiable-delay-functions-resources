@@ -17,6 +17,19 @@ https://www.youtube.com/watch?v=dN-1q8c50q0
 VDFs in IOTA by Luigi Vigneri and Vassil Dimitrov
 https://www.youtube.com/watch?v=JH4wCpPJeyc
 
+
+Continuous Verifiable Delay Functions
+https://www.youtube.com/watch?v=26qLKF0TJ_4
+
+
+Efficient Verifiable Delay Functions
+https://www.youtube.com/watch?v=_x4RscUbhtw
+
+
+Verifiable Delay Functions
+https://www.youtube.com/watch?v=_-feyaZZjEw
+
+
 ## articles
 
 https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to
