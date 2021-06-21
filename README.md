@@ -1,4 +1,4 @@
-# variable delay functions resources
+# verifiable delay functions resources
 
 ## videos
 
